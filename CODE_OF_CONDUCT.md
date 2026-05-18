@@ -1,30 +1,128 @@
-All users of learning materials hosted on the Coursera platform are expected to abide by the following standards to ensure the integrity of learning within Coursera learning experiences. Learners are expected to familiarize themselves and comply with the Terms of Use for the Coursera platform and any code of conduct, academic policy, honor code or any institution's requirements associated with programs which a learner has enrolled onto through the Coursera platform has established.
+# Contributor Covenant Code of Conduct
 
-Academic misconduct undermines the value of Coursera hosted credentials and devalues the authentic efforts of other learners. Learners who engage in misconduct are therefore subject to consequences as described below. 
+## Our Pledge
 
-Academic misconduct is defined as any activity which circumvents, or attempts to circumvent, the learning experience provided by the course through violation of course learning policies or specific policies provided by the instructor or outlined by the syllabus, or misrepresentation of the authorship or conditions of completion of course activities. The following standards provide clarification of the most common types of academic misconduct, but the list is not exhaustive. Other behavior may constitute academic misconduct in a particular course or across the Coursera platform.
+We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, religion, or sexual identity
+and orientation.
 
-Definitions
+We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.
 
-Work within a Coursera activity - all activity on the Coursera platform including logins and all course activities is subject to these policies. Work includes but is not limited to exams, quizzes, peer review activities, assessments, discussion board contributions, guided projects, and labs. Furthermore, activities outside the platform that pertain to coursework on the platform are also covered by these policies.
+## Our Standards
 
-Unauthorized - activities that violate Coursera’s Terms of Use, course or platform policies, activities which are illegal, or those activities which violate academic standards or standards of integrity that a learner on the coursera platform should be expected to know are considered to be unauthorized.
+Examples of behavior that contributes to a positive environment for our
+community include:
 
-Violations
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes,
+  and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the
+  overall community
 
-Plagiarism: Plagiarism is when you copy or reproduce words, ideas, or any other materials from another source without giving credit to the original author. Plagiarism also includes the practice of employing or allowing another person to alter or revise your work, and then submitting the work as your own. Learners may discuss assessments among themselves, or with an instructor or tutor, but all assessment submissions must be original works done independently by the learner. This includes work paraphrased, translated or otherwise modified using automated means. Plagiarism can also include self plagiarism, where a learner submits the same work that they had already submitted for another assessment or module, where this is not disclosed and permitted.
-Use of Unauthorized Materials: using or consulting unauthorized materials (including electronic materials and generative AI tools including, but not limited to, ChatGPT or similar software or applications) or using unauthorized equipment or devices on any work within a Coursera activity, unless expressly permitted.
-Unauthorized collaboration: working together with any person on any work within a Coursera activity unless expressly permitted.
-Contract cheating: paying, trading, or otherwise getting another person to create work for submission to a Coursera course or for work within a Coursera activity.
-Impersonation: completing work within any Coursera activity (including but not limited to exams, assessments, and learning activities) when logged in as another user or having another user complete work within a Coursera activity when logged in as you; otherwise misrepresenting the authorship of work submitted on Coursera.
-Unauthorized sharing of resources: making any information about or solutions to homework, quizzes, exams, projects, and other assessments available to anyone else (except to the extent an assessment explicitly permits sharing solutions). This includes both solutions written by you, other learners, outside resources, or any solutions provided by the course staff or others.
-Fraud: any misrepresentation about the authorship or the conditions under which work within a Coursera activity was performed not otherwise specified or falsifying any evidence in support of any mitigating circumstances claim.
-Other: any other behavior that confers an unfair advantage to you or someone else or any activity that attempts to dishonestly improve your results or improve or harm the results of others in the performance of work within a Coursera activity.
-Consequences for Non-degree Products 
+Examples of unacceptable behavior include:
 
-Coursera will determine relevant sanctions based on the kind of misconduct, the severity of the behavior, the stakes of the assessment, and any previous history of misconduct by the user.
+* The use of sexualized language or imagery, and sexual attention or
+  advances of any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or email
+  address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
 
-No refunds will be issued in the case of any corrective action for such violations. Honor Code violations will be determined at the sole discretion of Coursera and Coursera partners. You will be notified if a determination has been made that you have violated this Honor Code and you will be informed of the corresponding action to be taken as a result of the violation.
+## Enforcement Responsibilities
 
-Consequences for Degree Products 
-For Degree programs and University Certificate Programs, consequences are at the sole discretion of the content provider.
+Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.
+
+Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
+
+## Scope
+
+This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official e-mail address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+.
+All complaints will be reviewed and investigated promptly and fairly.
+
+All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
+
+## Enforcement Guidelines
+
+Community leaders will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct:
+
+### 1. Correction
+
+**Community Impact**: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.
+
+**Consequence**: A private, written warning from community leaders, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A public apology may be requested.
+
+### 2. Warning
+
+**Community Impact**: A violation through a single incident or series
+of actions.
+
+**Consequence**: A warning with consequences for continued behavior. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or
+permanent ban.
+
+### 3. Temporary Ban
+
+**Community Impact**: A serious violation of community standards, including
+sustained inappropriate behavior.
+
+**Consequence**: A temporary ban from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms may lead to a permanent ban.
+
+### 4. Permanent Ban
+
+**Community Impact**: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior,  harassment of an
+individual, or aggression toward or disparagement of classes of individuals.
+
+**Consequence**: A permanent ban from any sort of public interaction within
+the community.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 2.0, available at
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+
+Community Impact Guidelines were inspired by [Mozilla's code of conduct
+enforcement ladder](https://github.com/mozilla/diversity).
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see the FAQ at
+https://www.contributor-covenant.org/faq. Translations are available at
+https://www.contributor-covenant.org/translations.
